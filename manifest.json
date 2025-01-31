@@ -36,9 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "Hotel Alameda Inn",
- "display": "fullscreen",
  "background_color": "#FFFFFF",
- "start_url": "index.htm?installed=true",
- "theme_color": "#FFFFFF"
+ "theme_color": "#FFFFFF",
+ "display": "fullscreen",
+ "name": "Hotel Alameda Inn",
+ "start_url": "index.htm?installed=true"
 }
